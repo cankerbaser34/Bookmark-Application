@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(8, 110, 110);
+}
+
+.form-book {
+	color: beige;
+}
+.form-book label {
+	font-size: 30px;
+}
+.adbook {
+	font-size: 25px;
+}
+
+.adbook:hover {
+	background-color: aqua;
+	height: 60px;
+	color: brown;
+	text-transform: uppercase;
+	border: rgb(226, 99, 14) 2px solid;
+	border-radius: 20px;
+}
